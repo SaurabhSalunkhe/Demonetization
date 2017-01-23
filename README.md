@@ -11,4 +11,5 @@ Firstly, Go to the class DB4OUtil and replace the String FILENAME to your system
 After running, you will be prompted to enter username and password : Enter username as sysadmin and password as sysadmin
 Further you can create credentials for Bank Managers, Customers and Employers and see how the flow of the project is and how booking online apointments works.
 ## For Reference
+![demonetization](https://cloud.githubusercontent.com/assets/21284550/22203691/444245c4-e13c-11e6-99fd-124e2b0f1d51.png)
 
