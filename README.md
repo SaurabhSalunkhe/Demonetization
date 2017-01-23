@@ -12,6 +12,8 @@ After running, you will be prompted to enter username and password : Enter usern
 Further you can create credentials for Bank Managers, Customers and Employers and see how the flow of the project is and how booking online apointments works.
 ## Some Screenshots
 ![demonetization](https://cloud.githubusercontent.com/assets/21284550/22203691/444245c4-e13c-11e6-99fd-124e2b0f1d51.png)
+
 ![custappointment](https://cloud.githubusercontent.com/assets/21284550/22203890/2c6cb604-e13d-11e6-9321-c93eacbc1031.png)
+
 ![logdem](https://cloud.githubusercontent.com/assets/21284550/22204209/b2575a66-e13e-11e6-984b-b82ac5b7330a.png)
 
